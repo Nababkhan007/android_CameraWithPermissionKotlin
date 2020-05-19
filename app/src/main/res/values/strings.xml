@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraWithPermission</string>
+    <string name="camera_txt">Camera</string>
+    <string name="gallery_txt">Gallery</string>
+</resources>
